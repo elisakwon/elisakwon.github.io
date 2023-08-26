@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Elisa Kwon"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Elisa Kwon"
 sitemap: false
 permalink: /
 ---
