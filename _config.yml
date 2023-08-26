@@ -11,7 +11,7 @@ email: elisa.kwon@berkeley.edu
 description: > # this means to ignore newlines until "baseurl:"
   Website of Elisa Kwon.
 baseurl: ""
-url: "kwonelis.github.io"
+url: ""
 
 include:
   - .htaccess
