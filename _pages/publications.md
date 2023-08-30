@@ -6,9 +6,9 @@ sitemap: false
 permalink: /publications/
 ---
 
-My research explores human behavior and cognition during the design process, especially when faciliated by AI-enabled systems. I am interested in answering how AI support for design can be effectively developed and employed, drawing on insights from empirical human subject studies and cognitive psychology and neuroscience.   
-
 # Publications
+
+My research explores human behavior and cognition during the design process, especially when faciliated by AI-enabled systems. I am interested in answering how AI support for design can be effectively developed and employed, drawing on insights from empirical human subject studies and cognitive psychology and neuroscience.   
 
 {% assign yeartest = true %}
 {% for publi in site.data.publist %}
