@@ -72,6 +72,5 @@ My research explores human behavior and cognition during the design process, esp
 
 </div>
 {% endif %}
-{% endfor %}
 
 {% endfor %}
