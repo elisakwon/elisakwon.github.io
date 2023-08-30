@@ -10,6 +10,14 @@ permalink: /publications/
 
 My research explores human behavior and cognition during the design process, especially when faciliated by AI-enabled systems. I am interested in answering how AI support for design can be effectively developed and employed, drawing on insights from empirical human subject studies and cognitive psychology and neuroscience.   
 
+{% for myyear in site.data.years %}
+  {% assign yeartest = false %}
+  {% for publi in site.data.publist %}
+    {% if publi.year == myyear.year %}
+       {% assign yeartest = true %}
+    {% endif %}
+{% endfor %}
+
 ## {{ myyear.year }}
 
 {% for publi in site.data.publist %}
