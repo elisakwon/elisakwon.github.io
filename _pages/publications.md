@@ -10,9 +10,6 @@ My research explores human behavior and cognition during the design process, esp
 
 # Publications
 
-{% for publi in site.data.publist %}
+{% assign yeartest = true %} {% for publi in site.data.publist %} {% if publi.year %}{% else %} {% assign yeartest = false %} {% endif %} {% endfor %}
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
-{% endfor %}
+{% if yeartest == false %}
