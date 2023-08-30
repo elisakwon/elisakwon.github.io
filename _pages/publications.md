@@ -1,4 +1,4 @@
----
+f---
 title: "Elisa Kwon - Publications"
 layout: gridlay
 excerpt: "Elisa Kwon -- Publications."
@@ -66,4 +66,5 @@ My research explores human behavior and cognition during the design process, esp
 
 {% endif %}
 
+{% endfor %}
 {% endfor %}
