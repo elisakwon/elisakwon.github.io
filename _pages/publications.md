@@ -26,13 +26,11 @@ My research explores human behavior and cognition during the design process, esp
 {% endif %}
 
 <div class="well-sm">
-<ul class="flex-container">
   <li class="flex-item1">
     {% if publi.image %}
      <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="200%" style="float: left" />
     {% endif %}
   </li>
-</ul>
   <li class="flex-item2">
     <strong> {{ publi.title }}</strong> <br />
     <em>{{ publi.authors }} </em><br />
@@ -55,6 +53,7 @@ My research explores human behavior and cognition during the design process, esp
 <div class="collapse" id="{{publi.url}}2"><div class="well-bib">
 <iframe src='{{site.url}}{{site.baseurl}}/papers/{{publi.url}}.txt' scrolling='yes' width="100%" height="210" frameborder='0'></iframe>
 </div></div>
+
 {% endif %}
 
 {% endif %}
