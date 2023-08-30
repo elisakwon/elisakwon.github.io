@@ -1,0 +1,13 @@
+- name: Elisa Kwon
+  photo: EK-headshot2022.JPG
+  info: Ph.D. Candidate at UC Berkeley
+  email: elisa.kwon@berkeley.edu
+  scholar: https://scholar.google.com/citations?user=K3sddnoAAAAJ&hl=en
+  cv: https://github.com/ethan-pickering/cv/blob/master/Ethan_Pickering_Curriculum_Vitae.pdf
+  number_educ: 3
+  education1: (2020-  ) Ph.D. Candidate in Mechanical Engineering, UC Berkeley (with <a href="https://codesign.berkeley.edu" target="_blank">Dr. Kosa Goucher-Lambert</a>)
+  education2: (2017- 2019) M.A.Sc. in Mechanical Engineering, University of Toronto (with <a href="https://colonius.caltech.edu" target="_blank">Dr. Li Shu</a>)
+  education3: (2012-2017) B.A.Sc. in Engineering Science, University of Toronto 
+  education1short: (2020-  ) Ph.D. ME Candidate, UC Berkeley
+  education2short: (2017- 2019) M.A.Sc. ME, UofT
+  education3short: (2021-2022) B.A.Sc. EngSci, UofT
