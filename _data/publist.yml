@@ -1,42 +1,29 @@
-- title: "Single-electron charge transfer into putative Majorana and trivial modes in individual vortices"
-  image: imageaward_edited.png
-  year: 2023
-  description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
-  authors: J-F Ge, KM Bastiaans, D Chatzopoulos, D Cho, WO Tromp, T Benschop, J Niu, G Gu, MP Allan
-  link:
-    url: https://www.nature.com/articles/s41467-023-39109-w
-    display: Nature Communications 4, 3341 (2023)
-  highlight: 1
-  news2: See [news item](https://www.universiteitleiden.nl/en/news/2023/06/new-method-to-find-majoranas-tested-for-the-first-time) by Michelle Willebrands
-
-- title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
-  image: imageaward_edited.png
+- title: Discovering and forecasting extreme events via active learning in neural operators
+  authors: E. Pickering, S. Guth, G. Em Karniadakis, T.P. Sapsis
+  url: pickering2022discovery
+  image: pickering2022discovery.png
+  display: Nature Compuational Science
   year: 2022
-  description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
-  authors: JJiasen Niu, Koen M. Bastiaans, Jianfeng Ge, Ruchi Tomar, John Jesudasan, Pratap Raychaudhuri, Max Karrer, Reinhold Kleiner, Dieter Koelle, Arnaud Barbier, Eduard F.C. Driessen, Yaroslav M. Blanter, Milan P. Allan
-  link:
-    url: https://arxiv.org/abs/2306.02397
-    display: arXiv
-  highlight: 0
+  doi: 10.1038/s43588-022-00376-0
+  abstract: "Extreme events in society and nature, such as pandemic spikes, rogue waves or structural failures, can have catastrophic consequences. Characterizing extremes is difficult, as they occur rarely, arise from seemingly benign conditions, and belong to complex and often unknown infinite-dimensional systems. Such challenges render attempts at characterizing them moot. We address each of these difficulties by combining output-weighted training schemes in Bayesian experimental design (BED) with an ensemble of deep neural operators. This model-agnostic framework pairs a BED scheme that actively selects data for quantifying extreme events with an ensemble of deep neural operators that approximate infinite-dimensional nonlinear operators. We show that not only does this framework outperform Gaussian processes, but that (1) shallow ensembles of just two members perform best; (2) extremes are uncovered regardless of the state of the initial data (that is, with or without extremes); (3) our method eliminates ‘double-descent’ phenomena; (4) the use of batches of suboptimal acquisition samples compared to step-by-step global optima does not hinder BED performance; and (5) Monte Carlo acquisition outperforms standard optimizers in high dimensions. Together, these conclusions form a scalable artificial intelligence (AI)-assisted experimental infrastructure that can efficiently infer and pinpoint critical situations across many domains, from physical to societal systems."
 
-- title: "Puddle formation, persistent gaps, and non-mean-field breakdown of superconductivity in overdoped (Pb,Bi)2Sr2CuO6+δ"
-  image: BSCCOgap.png
-  year: 2023
-  description: Why does cuprate superconductivity break down at a certain doping level? Using scanning tunneling spectroscopy we find that an emerging metallic matrix inside the superconducting state is responsible for the overall reduction of Tc and the superfluid density, while leaving the gapsize unchanged. The formation of the matrix is tied to a pair breaking process violating a core principle of mean-field theories.
-  authors: WO Tromp, T Benschop, J-F Ge, I Battisti, KM Bastiaans, D Chatzopoulos, A Vervloet, S Smit, E van Heumen, MS Golden, Y Huang, T Kondo, Y Yin, JE Hoffman, MA Sulangi, J Zaanen, MP Allan
-  link:
-    url: https://www.nature.com/articles/s41563-023-01497-1
-    display: Nature Materials 22, 703 (2023)
-  highlight: 1
 
-- title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
-  image: Pairs3.png
+- title: Efficient global resolvent analysis via the one-way Navier-Stokes equations
+  authors: 
+    A. Towne, G. Rigas, O. Kamal, E. Pickering, T. Colonius
+  url: towne2022efficient
+  image: towne2022efficient.png
+  display: Journal of Fluid Mechanics, 948, A9
+  year: 2022
+  doi: doi:10.1017/jfm.2022.647
+  abstract: "Resolvent analysis is a powerful tool for modelling and analysing transitional and turbulent flows and, in particular, for approximating coherent flow structures. Despite recent algorithmic advances, computing resolvent modes for flows with more than one inhomogeneous spatial coordinate remains computationally expensive. In this paper we show how efficient and accurate approximations of resolvent modes can be obtained using a well-posed spatial marching method for flows that contain a slowly varying direction, i.e. one in which the mean flow changes gradually. First, we derive a well-posed and convergent one-way equation describing the downstream-travelling waves supported by the linearized Navier–Stokes equations. The method is based on a projection operator that isolates downstream-travelling waves. Integrating these one-way Navier–Stokes (OWNS) equations in the slowly varying direction, which requires significantly less CPU and memory resources than a direct solution of the linearized Navier–Stokes equations, approximates the action of the resolvent operator on a forcing vector. Second, this capability is leveraged to compute approximate resolvent modes using an adjoint-based optimization framework in which the forward and adjoint OWNS equations are marched in the downstream and upstream directions, respectively. This avoids the need to solve direct and adjoint globally discretized equations, therefore bypassing the main computational bottleneck of a typical global resolvent calculation. The method is demonstrated using the examples of a simple acoustics problem, a Mach 1.5 turbulent jet and a Mach 4.5 transitional zero-pressure-gradient flat-plate boundary layer. The optimal OWNS results are validated against corresponding global calculations, and the close agreement demonstrates the near-parabolic nature of these flows."
+
+- title: Resolvent-based modeling of turbulent jet noise
+  authors:
+    E. Pickering, A. Towne, P. Jordan, T. Colonius
+  url: pickering2021resolvent
+  image: pickering2021resolvent.png
+  display: Journal of the Acoustical Society of America
   year: 2021
-  description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
-  authors: KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP Allan
-  link:
-    url: https://www.science.org/doi/10.1126/science.abe3987
-    display: Science 374, 608 (2021)
-  highlight: 1
-  news1:   <a style="color:#FF0000" href="https://www.nature.com/articles/s41567-021-01468-w">Featured as 'Research Highlight' in Nature Physics by David Abergel</a>
-  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
+  doi: 10.1121/10.0006453
+  abstract: "Resolvent analysis has demonstrated encouraging results for modeling coherent structures in jets when compared against their data-educed counterparts from high-fidelity large-eddy simulations (LES). We formulate resolvent analysis as an acoustic analogy that relates the near-field resolvent forcing to the near- and far-field pressure. We use an LES database of round, isothermal, Mach 0.9 and 1.5 jets to produce an ensemble of realizations for the acoustic field that we project onto a limited set of resolvent modes. In the near-field, we perform projections on a restricted acoustic output domain, r/D=[5,6], while the far-field projections are performed on a Kirchhoff surface comprising a 100-diameter arc centered at the nozzle. This allows the LES realizations to be expressed in the resolvent basis via a data-deduced, low-rank, cross-spectral density matrix. We find that a single resolvent mode reconstructs the most energetic regions of the acoustic field across Strouhal numbers, St=[0−1], and azimuthal wavenumbers, m=[0,2]. Finally, we present a simple function that results in a rank-1 resolvent model agreeing within 2dB of the peak noise for both jets."
