@@ -18,7 +18,11 @@ My research explores human behavior and cognition during the design process, esp
     {% endif %}
 {% endfor %}
 
+{% if site.group_pub_by_year == true %}
+{% if yeartest == true %}
 ## {{ myyear.year }}
+{% endif %}
+{% endif %}
 
 {% for publi in site.data.publist %}
 {% if publi.year == myyear.year %}
