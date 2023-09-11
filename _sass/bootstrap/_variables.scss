@@ -15,7 +15,8 @@ $gray:                   lighten($gray-base, 33.5%) !default; // #555
 $gray-light:             lighten($gray-base, 60%) !default;   // #999
 $gray-lighter:           lighten($gray-base, 93.5%) !default; // #eee
 
-$brand-primary:         #158CBA !default;
+// $brand-primary:         #158CBA !default;
+$brand-primary:         #a7ba42 !default; //green
 $brand-success:         #28B62C !default;
 $brand-info:            #75CAEB !default;
 $brand-warning:         #FF851B !default;
@@ -32,7 +33,7 @@ $body-bg:               #fff !default;
 $text-color:            $gray !default;
 
 //** Global textual link color.
-$link-color:            $brand-primary !default;
+$link-color:            $brand-primary !default; //green
 //** Link hover color set via `darken()` function.
 $link-hover-color:      $link-color !default;
 //** Link hover decoration.
@@ -670,9 +671,9 @@ $progress-bar-info-bg:        $brand-info !default;
 //##
 
 //** Background color on `.list-group-item`
-$list-group-bg:                 #fff !default;
+$list-group-bg:                 #fff0cb !default; //yellow
 //** `.list-group-item` border color
-$list-group-border:             $gray-lighter !default;
+$list-group-border:             #f2cc84 !default; //dark yellow
 //** List group border radius
 $list-group-border-radius:      $border-radius-base !default;
 
