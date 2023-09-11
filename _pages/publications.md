@@ -21,7 +21,7 @@ My research explores human behavior and cognition during the design process, esp
 
 {% if site.group_pub_by_year == true %}
   {% if yeartest == true %}
-  ## {{ myyear.year }}
+## {{ myyear.year }}
   {% endif %}
 {% endif %}
 
