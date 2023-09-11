@@ -36,11 +36,11 @@ My research explores human behavior and cognition during the design process, esp
 
 <div class="well-sm">
 <ul class="flex-container">
-  <!-- <li class="flex-item1">
+  <li class="flex-item1">
     {% if publi.image %}
      <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="100%" style="float: left" />
     {% endif %}
-  </li> -->
+  </li>
 <li class="flex-item2">
     <strong> {{ publi.title }}</strong><br/>
     <em>{{ publi.authors }} </em><br/>
@@ -104,11 +104,11 @@ My research explores human behavior and cognition during the design process, esp
 
 <div class="well-sm">
 <ul class="flex-container">
-<!-- <li class="flex-item1">
+<li class="flex-item1">
   {% if publi.image %}
    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="200%" style="float: left" />
   {% endif %}
-</li> -->
+</li> 
 <li class="flex-item2">
   <strong> {{ publi.title }}</strong> <br />
   <em>{{ publi.authors }} </em><br />
