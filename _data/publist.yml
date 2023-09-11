@@ -1,29 +1,46 @@
-- title: Discovering and forecasting extreme events via active learning in neural operators
-  authors: E. Pickering, S. Guth, G. Em Karniadakis, T.P. Sapsis
-  url: pickering2022discovery
-  image: pickering2022discovery.png
-  display: Nature Compuational Science
+- title: Comparing and Evaluating Human and Computationally Derived Representations of Non-Semantic Design Information
+  authors: E. Kwon, K. Goucher-Lambert
+  url: Kwon2023Nonsemantic
+  image: Kwon2023Nonsemantic.png
+  display: Journal of Mechanical Design
+  year: 2023
+  doi: 
+  abstract: "Design artifacts provide a mechanism for illustrating design information and concepts, but their effectiveness relies on alignment across design agents in what these artifacts represent. This work investigates the agreement between multi-modal representations of design artifacts by humans and artificial intelligence (AI). Design artifacts are considered to constitute stimuli designers interact with to become inspired (i.e., inspirational stimuli), for which retrieval often relies on computational methods using AI. To facilitate this process for multi-modal stimuli, a better understanding of human perspectives of non-semantic representations of design information, e.g., by form or function-based features, is motivated. This work compares and evaluates human and AI-based representations of 3D-model parts by visual and functional features. Humans and AI were found to share consistent representations of visual and functional similarities, which aligned well to coarse, but not more granular, levels of similarity. Human-AI alignment was higher for identifying low compared to high similarity parts, suggesting mutual representation of features underlying more obvious than nuanced differences. Human evaluation of part relationships in terms of belonging to same or different categories revealed that human and AI-derived relationships similarly reflect concepts of ``near'' and ``far''. However, levels of similarity corresponding to ``near'' and ``far'' differed depending on the criteria evaluated, where ``far'' was associated with nearer visually than functionally related stimuli. These findings contribute to a fundamental understanding of human evaluation of information conveyed by AI-represented design artifacts needed for successful human-AI collaboration in design."
+
+- title: Understanding Inspiration: Insights into how designers discover inspiratoinal stimuli using an AI-enabled platform
+  authors: E. Kwon, V. Rao, K. Goucher-Lambert
+  url: Kwon2022Inspiration
+  image: Kwon2022Inspiration.png
+  display: Design Studies
+  year: 2023
+  doi: 10.1016/j.destud.2023.101202
+  abstract: "Throughout the design process, designers encounter diverse stimuli that influence their work. This influence is particularly notable during idea generation processes that are augmented by novel design support tools that assist in inspiration discovery. However, fundamental questions remain regarding why and how interactions afforded by these tools impact design behaviors. This work explores how designers search for inspirational stimuli using an AI-enabled multi-modal search platform, which supports queries by text and non-text-based inputs. Student and professional designers completed a think-aloud design exploration task using this platform to search for stimuli to inspire idea generation. We identify expertise and search modality as factors influencing design exploration, including the frequency and framing of searches, and the evaluation and utility of search results."
+
+- title: Enabling Multi-Modal Search for Inspirational Design Stimuli Using Deep Learning
+  authors: E. Kwon, F. Huang, K. Goucher-Lambert
+  url: Kwon2022AIEDAM
+  image: Kwon2022AIEDAM.png
+  display: AI EDAM
   year: 2022
-  doi: 10.1038/s43588-022-00376-0
-  abstract: "Extreme events in society and nature, such as pandemic spikes, rogue waves or structural failures, can have catastrophic consequences. Characterizing extremes is difficult, as they occur rarely, arise from seemingly benign conditions, and belong to complex and often unknown infinite-dimensional systems. Such challenges render attempts at characterizing them moot. We address each of these difficulties by combining output-weighted training schemes in Bayesian experimental design (BED) with an ensemble of deep neural operators. This model-agnostic framework pairs a BED scheme that actively selects data for quantifying extreme events with an ensemble of deep neural operators that approximate infinite-dimensional nonlinear operators. We show that not only does this framework outperform Gaussian processes, but that (1) shallow ensembles of just two members perform best; (2) extremes are uncovered regardless of the state of the initial data (that is, with or without extremes); (3) our method eliminates ‘double-descent’ phenomena; (4) the use of batches of suboptimal acquisition samples compared to step-by-step global optima does not hinder BED performance; and (5) Monte Carlo acquisition outperforms standard optimizers in high dimensions. Together, these conclusions form a scalable artificial intelligence (AI)-assisted experimental infrastructure that can efficiently infer and pinpoint critical situations across many domains, from physical to societal systems."
+  doi: 10.1017/S0890060422000130
+  abstract: "Inspirational stimuli are known to be effective in supporting ideation during early-stage design. However, prior work has predominantly constrained designers to using text-only queries when searching for stimuli, which is not consistent with real-world design behavior where fluidity across modalities (e.g., visual, semantic, etc.) is standard practice. In the current work, we introduce a multi-modal search platform that retrieves inspirational stimuli in the form of 3D-model parts using text, appearance, and function-based search inputs. Computational methods leveraging a deep-learning approach are presented for designing and supporting this platform, which relies on deep-neural networks trained on a large dataset of 3D-model parts. This work further presents the results of a cognitive study (n = 21) where the aforementioned search platform was used to find parts to inspire solutions to a design challenge. Participants engaged with three different search modalities: by keywords, 3D parts, and user-assembled 3D parts in their workspace. When searching by parts that are selected or in their workspace, participants had additional control over the similarity of appearance and function of results relative to the input. The results of this study demonstrate that the modality used impacts search behavior, such as in search frequency, how retrieved search results are engaged with, and how broadly the search space is covered. Specific results link interactions with the interface to search strategies participants may have used during the task. Findings suggest that when searching for inspirational stimuli, desired results can be achieved both by direct search inputs (e.g., by keyword) as well as by more randomly discovered examples, where a specific goal was not defined. Both search processes are found to be important to enable when designing search platforms for inspirational stimuli retrieval."
 
-
-- title: Efficient global resolvent analysis via the one-way Navier-Stokes equations
-  authors: 
-    A. Towne, G. Rigas, O. Kamal, E. Pickering, T. Colonius
-  url: towne2022efficient
-  image: towne2022efficient.png
-  display: Journal of Fluid Mechanics, 948, A9
-  year: 2022
-  doi: doi:10.1017/jfm.2022.647
-  abstract: "Resolvent analysis is a powerful tool for modelling and analysing transitional and turbulent flows and, in particular, for approximating coherent flow structures. Despite recent algorithmic advances, computing resolvent modes for flows with more than one inhomogeneous spatial coordinate remains computationally expensive. In this paper we show how efficient and accurate approximations of resolvent modes can be obtained using a well-posed spatial marching method for flows that contain a slowly varying direction, i.e. one in which the mean flow changes gradually. First, we derive a well-posed and convergent one-way equation describing the downstream-travelling waves supported by the linearized Navier–Stokes equations. The method is based on a projection operator that isolates downstream-travelling waves. Integrating these one-way Navier–Stokes (OWNS) equations in the slowly varying direction, which requires significantly less CPU and memory resources than a direct solution of the linearized Navier–Stokes equations, approximates the action of the resolvent operator on a forcing vector. Second, this capability is leveraged to compute approximate resolvent modes using an adjoint-based optimization framework in which the forward and adjoint OWNS equations are marched in the downstream and upstream directions, respectively. This avoids the need to solve direct and adjoint globally discretized equations, therefore bypassing the main computational bottleneck of a typical global resolvent calculation. The method is demonstrated using the examples of a simple acoustics problem, a Mach 1.5 turbulent jet and a Mach 4.5 transitional zero-pressure-gradient flat-plate boundary layer. The optimal OWNS results are validated against corresponding global calculations, and the close agreement demonstrates the near-parabolic nature of these flows."
-
-- title: Resolvent-based modeling of turbulent jet noise
-  authors:
-    E. Pickering, A. Towne, P. Jordan, T. Colonius
-  url: pickering2021resolvent
-  image: pickering2021resolvent.png
+- title: Does Visual Fixation affect Idea Fixation? 
+  authors: E. Kwon, J.D. Ryan, A. Bazylak, L.H. Shu
+  url: Kwon2020Fixation
+  image: Kwon2020Fixation.png
   display: Journal of the Acoustical Society of America
-  year: 2021
-  doi: 10.1121/10.0006453
-  abstract: "Resolvent analysis has demonstrated encouraging results for modeling coherent structures in jets when compared against their data-educed counterparts from high-fidelity large-eddy simulations (LES). We formulate resolvent analysis as an acoustic analogy that relates the near-field resolvent forcing to the near- and far-field pressure. We use an LES database of round, isothermal, Mach 0.9 and 1.5 jets to produce an ensemble of realizations for the acoustic field that we project onto a limited set of resolvent modes. In the near-field, we perform projections on a restricted acoustic output domain, r/D=[5,6], while the far-field projections are performed on a Kirchhoff surface comprising a 100-diameter arc centered at the nozzle. This allows the LES realizations to be expressed in the resolvent basis via a data-deduced, low-rank, cross-spectral density matrix. We find that a single resolvent mode reconstructs the most energetic regions of the acoustic field across Strouhal numbers, St=[0−1], and azimuthal wavenumbers, m=[0,2]. Finally, we present a simple function that results in a rank-1 resolvent model agreeing within 2dB of the peak noise for both jets."
+  year: 2020
+  doi: 10.1115/1.4045600
+  abstract: "Divergent thinking, an aspect of creativity, is often studied by measuring performance on the Alternative Uses Test (AUT). There is, however, a gap in creativity research concerning how visual stimuli on the AUT are perceived. Memory and attention researchers have used eye-tracking studies to reveal insights into how people think and how they perceive visual stimuli. Thus, the current work uses eye tracking to study how eye movements are related to creativity. Participants orally listed alternative uses for twelve objects, each visually presented for 2 min in four different views. Using eye tracking, we specifically explored where and for how long participants fixate their eyes at visual presentations of objects during the AUT. Eye movements before and while naming alternative uses were analyzed. Results revealed that naming new instances and categories of alternative uses correlated more strongly with visual fixation toward multiple views than toward single views of objects. Alternative uses in new, previously unnamed categories were also more likely named following increased visual fixation toward blank space. These and other findings reveal the cognitive-thinking styles and eye-movement behaviors associated with naming new ideas. Such findings may be applied to enhance divergent thinking during design."
+
+  
+- title: Visual Similarity to Aid Alternative-Use Concept Generation for Retired Wind-Turbine Blades 
+  authors: E. Kwon, A. Pehlken, K.D. Thoben, A. Bazylak, L.H. Shu
+  url: Kwon2019WTB
+  image: Kwon2019WTB.png
+  display: Journal of Mechanical Design
+  year: 2019
+  doi: 10.1115/1.4042336
+  abstract: "The challenge of finding alternative uses for retired wind-turbine blades, which have limited disposal options, motivates this work. Two reuse concept-generation activities (CGAs) conducted in German universities revealed difficulties with the parts' large scale and seeing beyond their original use. Existing methods, e.g., using functional analogy, are less applicable, since for safety reasons, these parts should not be reused to fulfill the same function. Therefore, this work explores the use of visual similarity to support reuse-concept generation. A method was developed that (1) finds visually similar images (VSIs) for wind-turbine-blade photos and (2) derives potential-reuse concepts based on objects that are visually similar to wind-turbine blades in these images. Comparing reuse concepts generated from the two methods, VSI produced fewer smaller-than-scale concepts than CGA. While other qualities such as feasibility depend on the specific photo selected, this work provides a new framework to exploit visual similarity to find alternative uses. As demonstrated for wind-turbine blades, this method aids in generating alternative-use concepts, especially for large-scale objects."
+
