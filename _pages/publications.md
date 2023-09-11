@@ -112,11 +112,11 @@ My research explores human behavior and cognition during the design process, esp
   {{ publi.display }} {% if publi.year %}({{publi.year}}){% endif %}<br/>
   {% if publi.url %}<a href="{{ site.url }}{{ site.baseurl }}/papers/{{ publi.url }}.pdf" target="_blank"><button class="btn-pdf">PDF</button></a>{% endif %}
   {% if publi.doi %}<a href="http://dx.doi.org/{{ publi.doi }}" target="_blank"><button class="btn-doi">DOI</button></a> {% endif %}
-  {% if publi.abstract %} <a data-toggle="collapse" href="#{{publi.url}}" class="btn-abstract">ABSTRACT</a>{% endif %}
+  {% if publi.abstract %} <a data-toggle="collapse" class="btn-abstract">ABSTRACT</a>{% endif %}
   
   {% if publi.abstract %}
   <br/>
-  <div class="collapse" id="{{publi.url}}"><div class="well-abstract">
+  <div class="collapse"><div class="well-abstract">
    {{publi.abstract}}
   </div></div>
   {% endif %}
