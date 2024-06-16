@@ -1,11 +1,11 @@
 - title: "Comparing and Evaluating Human and Computationally Derived Representations of Non-Semantic Design Information"
   authors: E. Kwon, K. Goucher-Lambert
-  url: 
+  url: Kwon2023Nonsemantic
   image: Kwon2023Nonsemantic.png
   display: Journal of Mechanical Design
   year: 2023
   abbr: Journal
-  doi: 
+  doi: 10.1115/1.4063567
   abstract: "Design artifacts provide a mechanism for illustrating design information and concepts, but their effectiveness relies on alignment across design agents in what these artifacts represent. This work investigates the agreement between multi-modal representations of design artifacts by humans and artificial intelligence (AI). Design artifacts are considered to constitute stimuli designers interact with to become inspired (i.e., inspirational stimuli), for which retrieval often relies on computational methods using AI. To facilitate this process for multi-modal stimuli, a better understanding of human perspectives of non-semantic representations of design information, e.g., by form or function-based features, is motivated. This work compares and evaluates human and AI-based representations of 3D-model parts by visual and functional features. Humans and AI were found to share consistent representations of visual and functional similarities, which aligned well to coarse, but not more granular, levels of similarity. Human-AI alignment was higher for identifying low compared to high similarity parts, suggesting mutual representation of features underlying more obvious than nuanced differences. Human evaluation of part relationships in terms of belonging to same or different categories revealed that human and AI-derived relationships similarly reflect concepts of ``near'' and ``far''. However, levels of similarity corresponding to ``near'' and ``far'' differed depending on the criteria evaluated, where ``far'' was associated with nearer visually than functionally related stimuli. These findings contribute to a fundamental understanding of human evaluation of information conveyed by AI-represented design artifacts needed for successful human-AI collaboration in design."
 
 - title: "Understanding Inspiration: Insights into how designers discover inspiratoinal stimuli using an AI-enabled platform"
