@@ -2,7 +2,7 @@
   authors: E. Kwon, J.D. Patterson, R.E. Beaty, K. Goucher-Lambert
   url: Kwon2024BrainLLM
   image: Kwon2024BrainLLM.png
-  display: Proc. of Design, Computing, and Cognition Conference 2024 (DCC'24)
+  display: Proc. of Design, Computing, and Cognition Conference (DCC)
   year: 2024
   abbr: Conf.
   # doi: 10.1115/1.4063567
@@ -22,7 +22,7 @@
   authors: E. Kwon, K. Goucher-Lambert
   url: Kwon2023IDETCNonsemantic
   image: Kwon2023IDETCNonsemantic.png
-  display: Proc. of the ASME International Design Engineering Technical Conferences
+  display: Proc. of the ASME International Design Engineering Technical Conferences (IDETC)
   year: 2023
   abbr: Conf.
   doi: 10.1115/DETC2023-115108
@@ -32,7 +32,7 @@
   authors: E. Kwon, K. Goucher-Lambert
   url: Kwon2023Boundary
   image: Kwon2023Boundary.png
-  display: Proc. of the Design Society: 24th International Conference on Engineering Design
+  display: Proc. of the Design Society 24th International Conference on Engineering Design (ICED)
   year: 2023
   abbr: Conf.
   doi: 10.1017/pds.2023.173
@@ -52,7 +52,7 @@
   authors: E. Kwon, V. Rao, K. Goucher-Lambert
   url: Kwon2022IDETCSearch
   image: Kwon2022IDETCSearch.png
-  display: Proc. of the ASME International Design Engineering Technical Conferences
+  display: Proc. of the ASME International Design Engineering Technical Conferences (IDETC)
   year: 2022
   abbr: Conf.
   doi: 10.1115/DETC2022-90638
@@ -62,7 +62,7 @@
   authors: E. Kwon, V. Rao, K. Goucher-Lambert
   url: Kwon2022Unexpected
   image: Kwon2022Unexpected.png
-  display: Proc. of Design, Computing, and Cognition Conference 2022 (DCC'22)
+  display: Proc. of Design, Computing, and Cognition Conference (DCC)
   year: 2022
   abbr: Conf.
   doi: 10.1007/978-3-031-20418-0_24
@@ -72,7 +72,7 @@
   authors: E. Kwon, V. Rao, K. Goucher-Lambert
   url: Kwon2022Moodboard
   image: Kwon2022Moodboard.png
-  display: Proc. of Design, Computing, and Cognition Conference 2022 (DCC'22)
+  display: Proc. of Design, Computing, and Cognition Conference (DCC)
   year: 2022
   abbr: Conf.
   doi: 10.1007/978-3-031-20418-0_44
@@ -92,7 +92,7 @@
   authors: E. Kwon, F. Huang, K. Goucher-Lambert
   url: Kwon2021Multimodal
   image: Kwon2021Multimodal.png
-  display: Proc. of the ASME International Design Engineering Technical Conferences
+  display: Proc. of the ASME International Design Engineering Technical Conferences (IDETC)
   year: 2021
   abbr: Conf.
   doi: 10.1115/DETC2021-71825
