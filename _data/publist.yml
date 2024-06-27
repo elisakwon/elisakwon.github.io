@@ -1,7 +1,7 @@
 - title: "Assessing the alignment between word representations in the brain and large language models"
   authors: E. Kwon, J.D. Patterson, R.E. Beaty, K. Goucher-Lambert
   url: Kwon2024BrainLLM
-  image: Kwon2024BrainLLM.png
+  image: 2024-dcc-kwon-llm-brain-alignment.png
   display: Proc. of Design, Computing, and Cognition Conference (DCC)
   year: 2024
   abbr: Conf.
@@ -11,7 +11,7 @@
 - title: "Comparing and evaluating human and computationally derived representations of non-semantic design information"
   authors: E. Kwon, K. Goucher-Lambert
   url: Kwon2023Nonsemantic
-  image: Kwon2023Nonsemantic.png
+  image: 2023-JMD-kwon-sim.png
   display: Journal of Mechanical Design
   year: 2024
   abbr: Journal
@@ -21,7 +21,7 @@
 - title: "Similarities and differences in human vs. computational representations of non-semantic inspirational design stimuli"
   authors: E. Kwon, K. Goucher-Lambert
   url: Kwon2023IDETCNonsemantic
-  image: Kwon2023IDETCNonsemantic.png
+  image: 2023-IDETC-humancompsim.png
   display: Proc. of the ASME International Design Engineering Technical Conferences (IDETC)
   year: 2023
   abbr: Conf.
@@ -31,7 +31,7 @@
 - title: "Examining the boundary between near and far design stimuli"
   authors: E. Kwon, K. Goucher-Lambert
   url: Kwon2023Boundary
-  image: Kwon2023Boundary.png
+  image: 2023-ICED-kwon-boundary.png
   display: Proc. of the Design Society 24th International Conference on Engineering Design (ICED)
   year: 2023
   abbr: Conf.
@@ -41,7 +41,7 @@
 - title: "Understanding Inspiration: Insights into how designers discover inspiratoinal stimuli using an AI-enabled platform"
   authors: E. Kwon, V. Rao, K. Goucher-Lambert
   url: Kwon2023Inspiration
-  image: Kwon2023Inspiration.png
+  image: 2023-DesStudies-kwon-stimulisearch.png
   display: Design Studies
   year: 2023
   abbr: Journal
@@ -51,7 +51,7 @@
 - title: "Investigating the roles of expertise and modality in designers' search for inspirational stimuli"
   authors: E. Kwon, V. Rao, K. Goucher-Lambert
   url: Kwon2022IDETCSearch
-  image: Kwon2022IDETCSearch.png
+  image: 2022-IDETC-kwon-expertise.png
   display: Proc. of the ASME International Design Engineering Technical Conferences (IDETC)
   year: 2022
   abbr: Conf.
@@ -61,7 +61,7 @@
 - title: "Exploring designers' encounters with unexpected inspirational stimuli"
   authors: E. Kwon, V. Rao, K. Goucher-Lambert
   url: Kwon2022Unexpected
-  image: Kwon2022Unexpected.png
+  image: 2022-DCC-kwon-short.png
   display: Proc. of Design, Computing, and Cognition Conference (DCC)
   year: 2022
   abbr: Conf.
@@ -71,7 +71,7 @@
 - title: "Like a moodboard, but more interactive - the role of expertise in designers' mental models and speculations on an intelligent design assistant"
   authors: E. Kwon, V. Rao, K. Goucher-Lambert
   url: Kwon2022Moodboard
-  image: Kwon2022Moodboard.png
+  image: 2022-DCC-Rao-mentalmodels.png
   display: Proc. of Design, Computing, and Cognition Conference (DCC)
   year: 2022
   abbr: Conf.
@@ -81,7 +81,7 @@
 - title: "Enabling Multi-Modal Search for Inspirational Design Stimuli Using Deep Learning"
   authors: E. Kwon, F. Huang, K. Goucher-Lambert
   url: Kwon2022AIEDAM
-  image: Kwon2022AIEDAM.png
+  image: 2022-AIEDAM-kwon-multimodal.png
   display: "Artificial Intelligence for Engineering Design, Analysis, and Manufacturing"
   year: 2022
   abbr: Journal
@@ -91,7 +91,7 @@
 - title: "Multi-modal search for inspirational examples in design"
   authors: E. Kwon, F. Huang, K. Goucher-Lambert
   url: Kwon2021Multimodal
-  image: Kwon2021Multimodal.png
+  image: 2021-IDETC-kwon-multi-modal-search.png
   display: Proc. of the ASME International Design Engineering Technical Conferences (IDETC)
   year: 2021
   abbr: Conf.
