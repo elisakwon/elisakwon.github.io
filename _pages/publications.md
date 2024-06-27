@@ -41,10 +41,10 @@ My research explores human behavior and cognition during the design process, esp
 <div class="well-sm">
 <ul class="flex-container">
 <li class="flex-item1">
+    {% if publi.abbr %}<a target="_blank"><button class="btn-pdf">{{publi.abbr}}</button></a>{% endif %}
     {% if publi.image %}
        <img src="{{ site.url }}{{ site.baseurl }}/images/{{ publi.image }}" class="img-responsive" width="200%" style="float: left" />
     {% endif %}
-    {% if publi.abbr %}<a target="_blank"><button class="btn-pdf">{{publi.abbr}}</button></a>{% endif %}
 </li> 
 <li class="flex-item2">
   <strong> {{ publi.title }}</strong> <br />
