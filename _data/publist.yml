@@ -4,7 +4,7 @@
   image: 2024-dcc-kwon-llm-brain-alignment.png
   display: Proc. of Design, Computing, and Cognition Conference (DCC)
   year: 2024
-  abbr: Conf.
+  abbr: Proceedings
   # doi: 10.1115/1.4063567
   abstract: "Recent developments in using Large Language Models (LLMs) to predict and align with neural representations of language can be applied to achieving a future vision of design tools that enable detection and reconstruction of designers’ mental representations of ideas. Prior work has largely explored this relationship during passive language tasks only, e.g., reading or listening. In this work, the relationship between brain activation data (functional imaging, fMRI) during appropriate and novel word association generation and LLM (Llama-2 7b) word representations is tested using Representational Similarity Analysis (RSA). Findings suggest that LLM word representations align with brain activity captured during novel word association, but not when forming appropriate associates. Association formation is one cognitive process central to design. By demonstrating that brain activity during this task can align with LLM word representations, insights from this work encourage further investigation into this relationship during more complex design ideation processes."
 
@@ -24,7 +24,7 @@
   image: 2023-IDETC-humancompsim.png
   display: Proc. of the ASME International Design Engineering Technical Conferences (IDETC)
   year: 2023
-  abbr: Conf.
+  abbr: Proceedings
   doi: 10.1115/DETC2023-115108
   abstract: "As inspirational stimuli can assist designers with achieving enhanced design outcomes, supporting the retrieval of impactful sources of inspiration is important. Existing methods facilitating this retrieval have relied mostly on semantic relationships, e.g., analogical distances. Increasingly, data-driven methods can be leveraged to represent diverse stimuli in terms of multi-modal information, enabling designers to access stimuli in terms of less explored, non-text-based relationships. Toward improved retrieval of multi-modal representations of inspirational stimuli, this work compares human-evaluated and computationally derived similarities between stimuli in terms of non-text-based visual and functional features. A human subjects study (n = 36) was conducted where similarity assessments between triplets of 3D-model parts were collected and used to construct psychological embedding spaces. Distances between unique part embeddings were used to represent similarities in terms of visual and functional features. Obtained distances were compared with computed distances between embeddings of the same stimuli generated using artificial intelligence (AI)-based deep-learning approaches. When used to assess similarity in appearance and function, these representations were found to be largely consistent, with highest agreement found when assessing pairs of stimuli with low similarity. Alignment between models was otherwise lower when identifying the same pairs of stimuli with higher levels of similarity. Importantly, qualitative data also revealed insights regarding how humans made similarity assessments, including more abstract information not captured using AI-based approaches. Toward providing inspiration to designers that considers design problems, ideas, and solutions in terms of non-text-based relationships, further exploration of how these relationships are represented and evaluated is encouraged."
 
@@ -34,7 +34,7 @@
   image: 2023-ICED-kwon-boundary.png
   display: Proc. of the Design Society 24th International Conference on Engineering Design (ICED)
   year: 2023
-  abbr: Conf.
+  abbr: Proceedings
   doi: 10.1017/pds.2023.173
   abstract: "External sources of inspiration can promote the discovery of new ideas as designers ideate on a design task. Data-driven techniques can increasingly enable the retrieval of inspirational stimuli based on nontext-based representations, beyond semantic features of stimuli. However, there is a lack of fundamental understanding regarding how humans evaluate similarity between non-semantic design stimuli (e.g., visual). Toward this aim, this work examines human-evaluated and computationally derived representations of visual and functional similarities of 3D-model parts. A study was conducted where participants (n=36) assessed triplet ratings of parts and categorized these parts into groups. Similarity is defined by distances within embedding spaces constructed using triplet ratings and deep-learning methods, representing human and computational representations. Distances between stimuli that are grouped together (or not) are determined to understand how various methods and criteria used to define non-text-based similarity align with perceptions of 'near' and 'far'. Distinct boundaries in computed distances separating stimuli that are 'too far' were observed, which include farther stimuli when modeling visual vs. functional attributes."
 
@@ -54,7 +54,7 @@
   image: 2022-IDETC-kwon-expertise.png
   display: Proc. of the ASME International Design Engineering Technical Conferences (IDETC)
   year: 2022
-  abbr: Conf.
+  abbr: Proceedings
   doi: 10.1115/DETC2022-90638
   abstract: "Designers can benefit from inspirational stimuli when presented during the design process. Encountering external stimuli can also lead designers to negative design outcomes by limiting exploration of the design space and idea generation. Prior work has investigated how specific features of inspirational stimuli can be beneficial or harmful to designers. However, the processes designers use to search for and discover inspirational stimuli leading to these outcomes are less known. The objective of this work is thus to better understand how designers search for inspirational design stimuli. Specifically, we investigate how factors such as designer expertise and search modality (e.g., text vs. visual-based) impact both explicit and implicit features during the search for design stimuli. A cognitive study was completed by novice and expert designers (seven students and eight professionals), who searched for design stimuli using a novel multi-modal search platform while following a think-aloud protocol. The multi-modal search platform enabled search using text and nontext inputs, and provided design stimuli in the form of 3D-model parts. This work presents methods to describe search processes in terms of three levels: activities, behaviors, and pathways, as defined in this paper. Our findings determine that design expertise and search modality influence search behavior. Illustrative examples are presented and discussed of search processes leading designers to both negative and beneficial outcomes, such as designers fixating on specific results or benefiting unexpectedly from unintentional inspirational stimuli. Overall, this work contributes to an improved understanding of how designers search for inspiration, and key factors influencing these behaviors."
 
@@ -64,7 +64,7 @@
   image: 2022-DCC-kwon-short.png
   display: Proc. of Design, Computing, and Cognition Conference (DCC)
   year: 2022
-  abbr: Conf.
+  abbr: Proceedings
   doi: 10.1007/978-3-031-20418-0_24
   abstract: "In prior work on designers’ search for inspirational stimuli, random discovery of stimuli through passive search processes has been underexplored. This paper primarily investigates how unintentionally discovered stimuli influence design outcomes, and why designers select these stimuli despite not meeting their initial expectations. In the present work, designers’ search for inspirational stimuli is explored through their use of a multi-modal search tool developed by our team. Fifteen designers used the search tool to find inspirational stimuli to solve an open-ended design challenge. During this study, many search results were found not to meet designers’ expectations. Nonetheless, designers incorporated a portion of these unexpected stimuli into their design ideas, resulting in the design outcomes: introduction of novel features, fulfillment of needs in an unanticipated way, and acceptance of readily available stimuli. This work suggests that encounters with unexpected stimuli can be beneficial, suggesting implications for future design tool development."
 
@@ -74,7 +74,7 @@
   image: 2022-DCC-Rao-mentalmodels.jpg
   display: Proc. of Design, Computing, and Cognition Conference (DCC)
   year: 2022
-  abbr: Conf.
+  abbr: Proceedings
   doi: 10.1007/978-3-031-20418-0_44
   abstract: "The successful adoption of artificial intelligence (AI)-enabled tools in engineering design requires an understanding of designers’ mental models of such tools. This work explores how professional and student engineering designers (1) develop mental models of a novel AI-driven engineering design tool and (2) speculate AI-enabled functionalities that can aid them. Student (N = 7) and professional (N = 8) designers completed a task using an AI-enabled tool, and were interviewed to uncover their mental model of the tool and speculations on future AI-enabled functionalities. Both professional and student designers developed accurate mental models of the AI tool, and speculated functionalities that were similarly “near” and “far” in terms of analogical distance from the AI tool’s functionality. These findings suggest that mental models and cross-application of AI tool functionality are readily accessible to designers, offering several implications for widespread adoption of AI-enabled design tools."
 
@@ -94,7 +94,7 @@
   image: 2021-IDETC-kwon-multi-modal-search.png
   display: Proc. of the ASME International Design Engineering Technical Conferences (IDETC)
   year: 2021
-  abbr: Conf.
+  abbr: Proceedings
   doi: 10.1115/DETC2021-71825
   abstract: "Inspirational stimuli are known to be effective in supporting ideation during the design process. However, minimal prior work has allowed individuals to search using multiple modes of input simultaneously, which is more representative of real design behavior. In the current work, we developed a multi-modal search platform that retrieves 3D model parts based on text, appearance, and function-based search inputs. This work presents the results of an experimental study (n = 21) in which the search platform was used to find parts identified as potentially useful for inspiring solutions to a design challenge. Participants were asked to engage with three different search modalities: search by keywords, by curated 3D parts, and by user-assembled 3D parts in their workspace. When searching by parts that are curated or in their workspace, additional control over the similarity of appearance and function of results in reference to the input was available to participants. The results of this study demonstrate that the modality used affects search behavior, such as in the frequency of searches, how participants engage with retrieved search results, and how broadly the search space is covered. Specific results link interactions with the interface to search strategies participants may have used during the task. Findings suggest that multi-modal search should enable intentional search for desired goals through direct search inputs (e.g., by keyword) and incremental adjustments to features of visually represented search inputs. Moreover, enabling discovery of inexplicitly searched for examples through related information or more randomly encountered examples may assist exploratory search behavior."
 
