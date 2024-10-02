@@ -5,7 +5,7 @@
   display: Proc. of Design, Computing, and Cognition Conference (DCC)
   year: 2024
   abbr: Proceedings
-  # doi: 10.1115/1.4063567
+  doi: 10.1007/978-3-031-71922-6_14
   abstract: "Recent developments in using Large Language Models (LLMs) to predict and align with neural representations of language can be applied to achieving a future vision of design tools that enable detection and reconstruction of designers’ mental representations of ideas. Prior work has largely explored this relationship during passive language tasks only, e.g., reading or listening. In this work, the relationship between brain activation data (functional imaging, fMRI) during appropriate and novel word association generation and LLM (Llama-2 7b) word representations is tested using Representational Similarity Analysis (RSA). Findings suggest that LLM word representations align with brain activity captured during novel word association, but not when forming appropriate associates. Association formation is one cognitive process central to design. By demonstrating that brain activity during this task can align with LLM word representations, insights from this work encourage further investigation into this relationship during more complex design ideation processes."
 
 - title: "Comparing and evaluating human and computationally derived representations of non-semantic design information"
