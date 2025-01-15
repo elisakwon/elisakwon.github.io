@@ -1,14 +1,16 @@
 - name: Elisa Kwon
   photo: EK-headshot2022.jpg
-  info: Ph.D. Candidate at UC Berkeley
-  email: elisa.kwon@berkeley.edu
+  info: Postdoctoral researcher at UofT
+  email: elisa.kwon@utoronto.ca
   scholar: https://scholar.google.com/citations?user=K3sddnoAAAAJ&hl=en
-  cv: https://elisakwon.github.io/downloads/Elisa_Kwon_CV_Nov2024.pdf
+  cv: https://elisakwon.github.io/downloads/Elisa_Kwon_CV_Jan2025.pdf
   linkedin: https://www.linkedin.com/in/elisakwon/
-  number_educ: 3
-  education1: (2020- (exp) Dec 2024) Ph.D. Candidate in Mechanical Engineering, UC Berkeley (with <a href="https://codesign.berkeley.edu" target="_blank">Dr. Kosa Goucher-Lambert</a>)
-  education2: (2017- 2019) M.A.Sc. in Mechanical Engineering, University of Toronto (with <a href="https://colonius.caltech.edu" target="_blank">Dr. Li Shu</a>)
-  education3: (2012-2017) B.A.Sc. in Engineering Science, University of Toronto 
-  education1short: (2020-  ) Ph.D. Candidate ME, UC Berkeley
-  education2short: (2017- 2019) M.A.Sc. ME, UofT
-  education3short: (2012-2017) B.A.Sc. EngSci, UofT
+  number_educ: 4
+  education1: (2025- ) Postdoc, University of Toronto (with <a href="https://readylab.mie.utoronto.ca/" target="_blank">Dr. Alison Olechowski</a>)
+  education2: (2020-2024) Ph.D. in Mechanical Engineering, UC Berkeley (with <a href="https://codesign.berkeley.edu" target="_blank">Dr. Kosa Goucher-Lambert</a>)
+  education3: (2017-2019) M.A.Sc. in Mechanical Engineering, University of Toronto (with <a href="https://shulab.mie.utoronto.ca/" target="_blank">Dr. Li Shu</a>)
+  education4: (2012-2017) B.A.Sc. in Engineering Science, University of Toronto 
+  education1short: (2025- ) Postdoc, UofT
+  education2short: (2020-2024) Ph.D. ME, UC Berkeley
+  education3short: (2017-2019) M.A.Sc. ME, UofT
+  education4short: (2012-2017) B.A.Sc. EngSci, UofT
