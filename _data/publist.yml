@@ -1,3 +1,13 @@
+- title: "Generating preinventive structures: AI-driven creativity in product repurposing"
+  authors: E. Kwon, K. Goucher-Lambert
+  url: Kwon2024Repurposing
+  image: 2025-iced-kwon-repurposing.png
+  display: Proc. of the Design Society 25th International Conference on Engineering Design (ICED)
+  year: 2025
+  abbr: Proceedings
+  doi: 10.1017/pds.2025.10207
+  abstract: "This study presents an AI-driven method for generating preinventive structures - initial precursors to creative design concepts - using the Geneplore model as a theoretical framework. Multimodal AI is leveraged to derive preinventive structures from combinations of components of an existing product. This method is evaluated by comparing AI-generated structures of a product to those reverse identified from real repurposing solutions for the same product (IKEA hacks). The appearance of AI-generated preinventive structures in the repurposed designs suggests that this method can inspire and lead to viable design concepts. Implications extend to sustainable design, creative ideation, and the theory-driven development of design methods that support design in constrained solution spaces. Future work can refine these approaches and investigate broader applications in diverse design contexts."
+
 - title: "Assessing the alignment between word representations in the brain and large language models"
   authors: E. Kwon, J.D. Patterson, R.E. Beaty, K. Goucher-Lambert
   url: Kwon2024BrainLLM
